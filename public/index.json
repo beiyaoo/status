@@ -1,0 +1,99 @@
+{
+  "is": "index",
+  "cStateVersion": "5.6.1",
+  "apiVersion": "2.0",
+  "title": "Icebear Service Status",
+  "languageCodeHTML": "zh",
+  "languageCode": "en",
+  "baseURL": "https://status.zeroicebear.com", 
+  "description": "我们将持续监控我们的服务状态, 如有任何中断, 我们将在此发布说明.",
+  "summaryStatus": "notice", 
+  "categories": [
+      {
+        "name": "北极熊网站",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "管理组服务",
+        "description": "内含地图查询站,入群审核站,Bot 状态信息...",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    
+  ],
+  
+  
+  "pinnedIssues": [],
+  "systems": [
+    
+      {
+        "name": "查询站前端",
+        "category": "管理组服务", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "查询站后端",
+        "category": "管理组服务", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "审核站前端",
+        "category": "管理组服务", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "审核站后端",
+        "category": "管理组服务", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Bot服务",
+        "category": "管理组服务", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "邮件服务器",
+        "category": "管理组服务", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      }
+  ],
+  
+  
+  "buildDate": "2025-11-21",
+  "buildTime": "13:24",
+  "buildTimezone": "UTC",
+  "colorBrand": "#0a0c0f",
+  "colorOk": "#008000",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+  "logo": "https://status.zeroicebear.com/img/logo.jpg",
+  "googleAnalytics": "UA-00000000-1"
+}

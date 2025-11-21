@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "引入新功能",
+  "body": "\u003cp\u003e\u003cem\u003e公告\u003c/em\u003e - 我们为网站增加了 Always Online™, 其能保证我们的前端页面一直处于在线状态. 如果您可以访问前端但是却无法使用任何功能, 请及时上报网站管理, 您可以发邮件给: \u003ca href=\"mailto:contact@northlank.top\"\u003econtact@northlank.top\u003c/a\u003e 来告知错误, 感谢您的配合.\u003c/p\u003e\n",
+  "createdAt": "2025-03-18 04:38:22.19 +0000 UTC",
+  "lastMod": "2025-03-18 04:38:22.19 +0000 UTC",
+  "permalink": "https://status.zeroicebear.com/issues/2025-03-18-%E5%BC%95%E5%85%A5%E6%96%B0%E5%8A%9F%E8%83%BD/",
+  "severity": "notice",
+  "resolved": false,
+  "informational": true,
+  "resolvedAt": "2025-03-18T04:38:22.199Z",
+  "affected": [],
+  "filename": "2025-03-18-引入新功能.md"
+}
